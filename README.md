@@ -16,7 +16,6 @@
 
 - - - - - - - -
 
-### My Website
-```
-https://senya.website
-```
+### [My Website](https://senya.website)
+
+- - - - - - - -
