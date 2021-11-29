@@ -14,6 +14,7 @@
 ![img align="left" alt="docker" widnth="26px](https://cdn.iconscout.com/icon/free/png-64/docker-3521391-2944835.png)
 ![img align="left" alt="terminal" widnth="26px](https://cdn.iconscout.com/icon/free/png-64/terminal-19-458204.png)
 ![img align="left" alt="terminal" widnth="26px](https://robotframework.org/img/RF.svg)
+![img align="left" alt="terminal" widnth="26px](https://cdn.iconscout.com/icon/free/png-64/jenkins-1-282385.png)
 
 - - - - - - - -
 
